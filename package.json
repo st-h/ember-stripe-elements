@@ -1,6 +1,6 @@
 {
-  "name": "ember-stripe-elements",
-  "version": "0.4.0",
+  "name": "@st-h/ember-stripe-elements",
+  "version": "0.5.0",
   "description": "A simple Ember wrapper for Stripe Elements.",
   "keywords": [
     "credit card",
@@ -10,7 +10,7 @@
     "stripe elements"
   ],
   "license": "MIT",
-  "author": "Josh Smith",
+  "author": "",
   "directories": {
     "doc": "doc",
     "test": "tests"

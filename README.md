@@ -17,6 +17,8 @@
 
 A simple Ember wrapper for [Stripe Elements](https://stripe.com/docs/elements).
 
+**please note**: This is a temporary fork of https://github.com/code-corps/ember-stripe-elements until its future is clear.
+
 ## Features
 
 - Inject `<script src="https://js.stripe.com/v3/"></script>` into your application's `<body>`
