@@ -34,7 +34,7 @@ A simple Ember wrapper for [Stripe Elements](https://stripe.com/docs/elements).
 ## Installation
 
 ```sh
-$ ember install ember-stripe-elements
+$ ember install @st-h/ember-stripe-elements
 ```
 
 ## Configuration
