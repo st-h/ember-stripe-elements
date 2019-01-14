@@ -8,7 +8,7 @@
 
 [![Build Status](https://travis-ci.org/st-h/ember-stripe-elements.svg?branch=master)](https://travis-ci.org/st-h/ember-stripe-elements)
 [![npm version](https://badge.fury.io/js/ember-stripe-elements.svg)](https://badge.fury.io/js/ember-stripe-elements)
-[![Ember Observer Score](https://emberobserver.com/badges/ember-stripe-elements.svg)](https://emberobserver.com/addons/ember-stripe-elements)
+[![Ember Observer Score](https://emberobserver.com/badges/@st-h/ember-stripe-elements.svg)](https://emberobserver.com/addons/@st-h/ember-stripe-elements)
 [![Coverage Status](https://coveralls.io/repos/github/st-h/ember-stripe-elements/badge.svg?branch=master)](https://coveralls.io/github/st-h/ember-stripe-elements?branch=master)
 [![Inline docs](http://inch-ci.org/github/st-h/ember-stripe-elements.svg?branch=master)](http://inch-ci.org/github/st-h/ember-stripe-elements)
 [![MIT License](https://img.shields.io/npm/l/ember-stripe-elements.svg)](https://github.com/st-h/ember-stripe-elements/blob/master/LICENSE.md)
