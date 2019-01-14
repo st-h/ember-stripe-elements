@@ -3,7 +3,7 @@ import Service from '@ember/service';
 import { setProperties } from '@ember/object';
 import { readOnly } from '@ember/object/computed';
 import { resolve } from 'rsvp';
-import loadScript from 'ember-stripe-elements/utils/load-script';
+import loadScript from '@st-h/ember-stripe-elements/utils/load-script';
 
 export default Service.extend({
   config: null,

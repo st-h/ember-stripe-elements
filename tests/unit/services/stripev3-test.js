@@ -1,6 +1,6 @@
 import { moduleFor, test } from 'ember-qunit';
 import sinon from 'sinon';
-import StripeMock from 'ember-stripe-elements/utils/stripe-mock';
+import StripeMock from '@st-h/ember-stripe-elements/utils/stripe-mock';
 import env from 'dummy/config/environment';
 
 moduleFor('service:stripev3', 'Unit | Service | stripev3', {

@@ -1,1 +1,1 @@
-export { default } from 'ember-stripe-elements/components/stripe-card';
+export { default } from '@st-h/ember-stripe-elements/components/stripe-card';

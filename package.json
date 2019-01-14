@@ -15,7 +15,7 @@
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "https://github.com/code-corps/ember-stripe-elements",
+  "repository": "https://github.com/st-h/ember-stripe-elements",
   "scripts": {
     "build": "ember build",
     "start": "ember serve",

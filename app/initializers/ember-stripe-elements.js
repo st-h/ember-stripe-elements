@@ -1,6 +1,6 @@
 import EmberError from '@ember/error';
 import config from '../config/environment';
-import StripeMock from 'ember-stripe-elements/utils/stripe-mock';
+import StripeMock from '@st-h/ember-stripe-elements/utils/stripe-mock';
 
 export function initialize() {
   const application = arguments[1] || arguments[0];
@@ -19,6 +19,6 @@ export function initialize() {
 }
 
 export default {
-  name: 'ember-stripe-elements',
+  name: '@st-h/ember-stripe-elements',
   initialize
 };

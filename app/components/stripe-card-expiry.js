@@ -1,1 +1,1 @@
-export { default } from 'ember-stripe-elements/components/stripe-card-expiry';
+export { default } from '@st-h/ember-stripe-elements/components/stripe-card-expiry';

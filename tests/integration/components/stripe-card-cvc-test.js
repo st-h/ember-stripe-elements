@@ -1,6 +1,6 @@
 import { moduleForComponent, test } from 'ember-qunit';
 import hbs from 'htmlbars-inline-precompile';
-import StripeMock from 'ember-stripe-elements/utils/stripe-mock';
+import StripeMock from '@st-h/ember-stripe-elements/utils/stripe-mock';
 import env from 'dummy/config/environment';
 
 moduleForComponent('stripe-card-cvc', 'Integration | Component | stripe card cvc', {

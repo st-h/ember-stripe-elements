@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://github.com/code-corps/ember-stripe-elements/raw/master/docs/img/ember-stripe-elements.png" />
+  <img src="https://github.com/st-h/ember-stripe-elements/raw/master/docs/img/ember-stripe-elements.png" />
   <br />
-  <img src="https://github.com/code-corps/ember-stripe-elements/raw/master/docs/img/demo.gif" />
+  <img src="https://github.com/st-h/ember-stripe-elements/raw/master/docs/img/demo.gif" />
 </p>
 
 ---
 
-[![Build Status](https://travis-ci.org/code-corps/ember-stripe-elements.svg?branch=master)](https://travis-ci.org/code-corps/ember-stripe-elements)
+[![Build Status](https://travis-ci.org/st-h/ember-stripe-elements.svg?branch=master)](https://travis-ci.org/st-h/ember-stripe-elements)
 [![npm version](https://badge.fury.io/js/ember-stripe-elements.svg)](https://badge.fury.io/js/ember-stripe-elements)
 [![Ember Observer Score](https://emberobserver.com/badges/ember-stripe-elements.svg)](https://emberobserver.com/addons/ember-stripe-elements)
-[![Coverage Status](https://coveralls.io/repos/github/code-corps/ember-stripe-elements/badge.svg?branch=master)](https://coveralls.io/github/code-corps/ember-stripe-elements?branch=master)
-[![Inline docs](http://inch-ci.org/github/code-corps/ember-stripe-elements.svg?branch=master)](http://inch-ci.org/github/code-corps/ember-stripe-elements)
-[![MIT License](https://img.shields.io/npm/l/ember-stripe-elements.svg)](https://github.com/code-corps/ember-stripe-elements/blob/master/LICENSE.md)
+[![Coverage Status](https://coveralls.io/repos/github/st-h/ember-stripe-elements/badge.svg?branch=master)](https://coveralls.io/github/st-h/ember-stripe-elements?branch=master)
+[![Inline docs](http://inch-ci.org/github/st-h/ember-stripe-elements.svg?branch=master)](http://inch-ci.org/github/st-h/ember-stripe-elements)
+[![MIT License](https://img.shields.io/npm/l/ember-stripe-elements.svg)](https://github.com/st-h/ember-stripe-elements/blob/master/LICENSE.md)
 
 <h1>ember-stripe-elements</h1>
 
@@ -184,7 +184,7 @@ Fork this repo, make a new branch, and send a pull request. Please add tests in 
 ### Installation
 
 ```sh
-git clone git@github.com:code-corps/ember-stripe-elements.git
+git clone git@github.com:st-h/ember-stripe-elements.git
 cd ember-stripe-elements
 npm install
 ```
