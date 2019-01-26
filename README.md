@@ -11,7 +11,8 @@
 [![Ember Observer Score](https://emberobserver.com/badges/@st-h/ember-stripe-elements.svg)](https://emberobserver.com/addons/@st-h/ember-stripe-elements)
 [![Coverage Status](https://coveralls.io/repos/github/st-h/ember-stripe-elements/badge.svg?branch=master)](https://coveralls.io/github/st-h/ember-stripe-elements?branch=master)
 [![Inline docs](http://inch-ci.org/github/st-h/ember-stripe-elements.svg?branch=master)](http://inch-ci.org/github/st-h/ember-stripe-elements)
-[![MIT License](https://img.shields.io/npm/l/ember-stripe-elements.svg)](https://github.com/st-h/ember-stripe-elements/blob/master/LICENSE.md)
+[![MIT License](https://img.shields.io/npm/l/ember-stripe-elements.svg)](https://github.com/st-h/ember-stripe-elements/blob/master/LICENSE.md) 
+[![Greenkeeper badge](https://badges.greenkeeper.io/st-h/ember-stripe-elements.svg)](https://greenkeeper.io/)
 
 <h1>ember-stripe-elements</h1>
 
